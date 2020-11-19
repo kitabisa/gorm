@@ -778,7 +778,7 @@ func (scope *Scope) selectSQL() string {
 
 func (scope *Scope) useIndex() string {
 	if len(scope.Search.indexs) > 0 {
-		return fmt.Sprintf("USE INDEX(\"%v\")", strings.Join(scope.Search.indexs, ","))
+		return fmt.Sprintf("USE INDEX(%v)", strings.Join(scope.Search.indexs, ","))
 	}
 	return ""
 
