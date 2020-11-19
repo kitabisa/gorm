@@ -24,6 +24,36 @@
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RunManager" selected="Go Test.TestFirstAndLast in github.com/lukluk/gorm">
+    <configuration name="TestCloneSearch in github.com/lukluk/gorm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gorm-1.9.12" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/lukluk/gorm" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCloneSearch\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFirstAndLast in github.com/lukluk/gorm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gorm-1.9.12" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/lukluk/gorm" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestFirstAndLast\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestFirstAndLast in github.com/lukluk/gorm" />
+        <item itemvalue="Go Test.TestCloneSearch in github.com/lukluk/gorm" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -32,9 +62,52 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="216" width="598" height="490" key="find.popup" timestamp="1605674914484">
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1605747358381">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="421" y="216" width="598" height="490" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1605674914484" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1605747358381" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1605747358380">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1605747358380" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1605747358380">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1605747358380" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1605747358381">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605747358381" />
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1605746861339">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1605746861339" />
+    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1605746861338">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1605746861338" />
+    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1605746861338">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1605746861338" />
+    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1605746861339">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1605746861339" />
+    <state x="421" y="216" width="598" height="548" key="find.popup" timestamp="1605746719978">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="421" y="216" width="598" height="548" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1605746719978" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/scope.go</url>
+          <line>780</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
