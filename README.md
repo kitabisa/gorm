@@ -25,6 +25,7 @@ The fantastic ORM library for Golang, aims to be developer friendly.
 * Extendable, write Plugins based on GORM callbacks
 * Every feature comes with tests
 * Developer Friendly
+* Use Spesific Index
 
 ## Getting Started
 
