@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/lukluk/gorm"
+	"github.com/kitabisa/gorm"
 )
 
 func (s *Product) BeforeCreate() (err error) {

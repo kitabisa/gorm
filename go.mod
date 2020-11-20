@@ -1,4 +1,4 @@
-module github.com/lukluk/gorm
+module github.com/kitabisa/gorm
 
 go 1.15
 
