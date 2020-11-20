@@ -21,11 +21,11 @@ import (
 
 	"github.com/erikstmartin/go-testdb"
 	"github.com/jinzhu/now"
-	"github.com/lukluk/gorm"
-	_ "github.com/lukluk/gorm/dialects/mssql"
-	_ "github.com/lukluk/gorm/dialects/mysql"
-	"github.com/lukluk/gorm/dialects/postgres"
-	_ "github.com/lukluk/gorm/dialects/sqlite"
+	"github.com/kitabisa/gorm"
+	_ "github.com/kitabisa/gorm/dialects/mssql"
+	_ "github.com/kitabisa/gorm/dialects/mysql"
+	"github.com/kitabisa/gorm/dialects/postgres"
+	_ "github.com/kitabisa/gorm/dialects/sqlite"
 )
 
 var (
